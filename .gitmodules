@@ -49,3 +49,6 @@
 [submodule "src/django-mobility"]
 	path = src/django-mobility
 	url = git://github.com/jbalogh/django-mobility.git
+[submodule "src/repoze"]
+	path = src/repoze
+	url = git://github.com/repoze/repoze.profile.git
